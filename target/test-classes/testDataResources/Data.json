@@ -1,0 +1,16 @@
+[
+   {
+   "cardAutomationId": "Card1",
+    "credentials": {
+      "clientcardNumber": "451902xxxxxxxx",
+       "password": "xxxxxx"
+     }
+     },
+     {
+        "cardAutomationId": "Card2",
+        "credentials": {
+                          "clientcardNumber": "451901xxxxxxxx",
+                          "password": "xxxxxx"
+         }
+    }
+]
